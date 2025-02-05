@@ -1,12 +1,12 @@
-Branch: 
-Clone:
-Commit :
+Branch : 
+Clone :
+Commit :  
 Fetch :
 GIT :
 Github :
 Merge :
 Merge Conflict :
-Push :
+Push : 
 Pull :
-Remote :
+Remote : 
 Repository :
