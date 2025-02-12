@@ -1,3 +1,4 @@
+**Glossary Word**
 **Branch** : A separate copy of the repository to make changes without affecting the main version.
 **Clone** : Making a copy of a remote repository on your local machines.
 **Commit** : A saved version of the changes made to the repository.  
